@@ -1,6 +1,6 @@
 # Angular Template
 
-_Angular Template base with module routing, nav-bar and header (shared module) and dependencies: Bootstrap, MD Bootstrap, Fontawesome _
+_Angular Template base with module routing, nav-bar and header (shared module) and dependencies: Bootstrap, MD Bootstrap, Fontawesome_
 
 ## Built with 🛠️
 
