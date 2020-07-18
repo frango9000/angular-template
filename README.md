@@ -1,25 +1,15 @@
-# eMajin
+# Angular Template
 
-_Aplicación web que sirve como buscador de imágenes, haciendo uso del API de [Unsplash](https://unsplash.com/)_
+_Angular Template base with module routing, nav-bar and header (shared module) and dependencies: Bootstrap, MD Bootstrap, Fontawesome _
 
-### Pre-requisitos 📋
+## Built with 🛠️
 
-- El usuario debe poder introducir el término de búsqueda que desee y la web tiene que mostrar las imágenes relacionadas. Las imágenes deben poder ampliarse y ver sus detalles.
-
-- Front-end: Angular
-
-## Construido con 🛠️
-
-* [Angular](https://angular.io/) - TypeScript-based open-source web application framework 
-* [Unsplash](https://unsplash.com/) - API
-* [Yarn](https://yarnpkg.com/) Node Package Manager
-* [WebStorm](https://www.jetbrains.com/webstorm/) - IDE
+* [Angular](https://angular.io/) - v10.0.3 - Web application framework
+* [NodeJS](https://nodejs.org/) - v14.5 - JavaScript runtime
+* [Yarn](https://yarnpkg.com/) - v1.22.4 - NodeJS Package Manager
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE
 * [MD Bootstrap](https://mdbootstrap.com/docs/angular/) - Component Framework
 
-## Autores ✒️
+## Author ✒️
 
 * **Francisco Sanchez** - [fsancheztemprano](https://github.com/fsancheztemprano)
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE](LICENSE) para detalles
